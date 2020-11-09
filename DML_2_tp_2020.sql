@@ -1,3 +1,6 @@
+
+use tp_2020_gda;
+
 /*		cliente: supermercado chino		*/
 
 /*	factura 1	*/
