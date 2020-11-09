@@ -1,4 +1,4 @@
-/*use tp_2020_gda;*/
+use tp_2020_gda;
 
 /*	PUNTO 1:*/
 select s.id_suc, c.id_cli, c.razon_social, c.fecha_activ, c.id_barrio, c.razon_social, 
