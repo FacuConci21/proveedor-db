@@ -1,3 +1,6 @@
+
+use tp_2020_gda;
+
 INSERT INTO localidades(nombre) values('Cordoba');
 INSERT INTO localidades(nombre) values('Colonia Caroya');
 INSERT INTO localidades(nombre) values('Bell Ville');
