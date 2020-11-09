@@ -1,3 +1,7 @@
+create database tp_2020_gda;
+
+use tp_2020_gda;
+
 create table Localidades(
 	id_localidad int not null auto_increment,
     nombre varchar(100),
