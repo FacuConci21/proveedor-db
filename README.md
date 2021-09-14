@@ -1,8 +1,12 @@
-# my-sql
+# Proveedor Commerce
 
+## Descripcion
 Codigo creacion de una base de datos para un trabajo practico de mi universidad implementado en MySQL.
-Ya se que es poco serio ponerle solo "tp" de nombre, pero es que no hay enunciado describiendo ningun caso de estudio realmente y no
-se me ocurrio un nombre, tan solo esta el modelo de BD y las consignas (archivo pdf: TP-SQL-Enunciado).
+La base de datos originalmente no tiene un nombre, la bautice "Proveedor Commerce" ya que la accedo desde este [proyecto backend](https://github.com/FacuConci21/udemy-rest).
+
+La base de datos actualmente se encuentra hosteada de manera gratuita en la plataforma de [Clever Cloud](https://www.clever-cloud.com/en/).
+
+## Contenido del repositorio
 
 Archivo DDL: contiene la definicion de las tablas, tipos de datos, relaciones y restricciones.
 
