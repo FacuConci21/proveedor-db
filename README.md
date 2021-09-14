@@ -2,7 +2,8 @@
 
 ## Descripcion
 Codigo creacion de una base de datos para un trabajo practico de mi universidad implementado en MySQL.
-La base de datos originalmente no tiene un nombre, la bautice "Proveedor Commerce" ya que la accedo desde este [proyecto backend](https://github.com/FacuConci21/udemy-rest).
+La base de datos originalmente no tiene un nombre, la bautice "Proveedor Commerce" ya que la accedo desde este [proyecto backend](https://github.com/FacuConci21/udemy-rest)
+y tomo como dominio del proyecto un comercio de proveedores mayoristas de productos variados.
 
 La base de datos actualmente se encuentra hosteada de manera gratuita en la plataforma de [Clever Cloud](https://www.clever-cloud.com/en/).
 
